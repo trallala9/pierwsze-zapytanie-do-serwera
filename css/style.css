@@ -1,0 +1,27 @@
+#get-joke {
+
+    color: aquamarine;
+    width: 200px;
+    height: 100px;
+    font-size: 20px;
+    background-color: black;
+    border: none;
+    border-radius: 60px;
+    margin-left: 220px;
+    font-family: 'Fredoka One', cursive;
+}
+
+#joke {
+    font-size: 20px;
+    text-transform: uppercase;
+    width: 600px;
+    height: 150px;
+    text-align: center;
+    background-color: black;
+    border: 2px solid aqua;
+    border-radius: 60px;
+    color: grey;
+    padding: 30;
+    font-weight: bold;
+    font-family: 'Fredoka One', cursive;
+}
